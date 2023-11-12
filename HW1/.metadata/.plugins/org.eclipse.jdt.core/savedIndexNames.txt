@@ -1,0 +1,4 @@
+INDEX VERSION 1.132+C:\Users\harrisonlex\Desktop\大四下\課業\軟體工程\HW\HW1\.metadata\.plugins\org.eclipse.jdt.core
+389998575.index
+1865797976.index
+1549946302.index
